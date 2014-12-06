@@ -1,0 +1,120 @@
+@charset "UTF-8";
+form.directmail-subscribe-form[data-form-id="ad08c506"], form.directmail-subscribe-form[data-form-id="ad08c506"] td, form.directmail-subscribe-form[data-form-id="ad08c506"] input, form.directmail-subscribe-form[data-form-id="ad08c506"] select, form.directmail-subscribe-form[data-form-id="ad08c506"] .directmail-checkbox-label {font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Arial, Helvetica, "Lucida Grande", sans-serif;font-weight: 300;}
+form.directmail-subscribe-form[data-form-id="ad08c506"] table.directmail-main-table {width: 600px;background-color: #FFF;box-shadow: 0px 0px 3px rgba( 0, 0, 0, 0.35 );margin-top: 20px;margin-bottom: 20px;padding: 20px;min-height: 1%;border-radius: 10px;border-spacing: 0px;margin-left: auto;margin-right: auto;border-collapse: separate;}
+
+form.directmail-subscribe-form[data-form-id="ad08c506"] img.directmail-head-image {
+    display: block;
+    border-radius: 10px;
+    max-height: 560px;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+form.directmail-subscribe-form[data-form-id="ad08c506"] td.directmail-form-title {
+    padding-top:0;
+    font-size: 32px;
+    max-width: 560px;
+    overflow: auto;
+    word-wrap: break-word; 
+}
+
+form.directmail-subscribe-form[data-form-id="ad08c506"] td.directmail-form-description {
+    font-size: 15px;
+    max-width: 560px;
+    padding-bottom: 20px;
+    word-wrap: break-word;
+    line-height: 1.4em;
+}
+
+form.directmail-subscribe-form[data-form-id="ad08c506"] textarea, form.directmail-subscribe-form[data-form-id="ad08c506"] input[type="text"], form.directmail-subscribe-form[data-form-id="ad08c506"] input[type="email"], form.directmail-subscribe-form[data-form-id="ad08c506"] input[type="submit"], form.directmail-subscribe-form[data-form-id="ad08c506"] select {
+    width: 100%;
+    -webkit-box-sizing: border-box;  
+    -moz-box-sizing: border-box;  
+}
+
+form.directmail-subscribe-form[data-form-id="ad08c506"] input[type="text"], form.directmail-subscribe-form[data-form-id="ad08c506"] input[type="email"] {      
+    font-size: 20px;
+    padding: 5px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 10px;
+    background-color: #F9F9F9;
+    border: 1px solid #CCC;
+    border-radius: 3px;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    color: #000;
+}
+
+form.directmail-subscribe-form[data-form-id="ad08c506"] input[type="submit"] {
+    display: block;
+    height: 50px;
+    border: 0px;
+    font-size: 24px;
+    border-radius: 4px;
+    margin-top: 0.5em;
+    border: 1px solid #cccccc;
+    box-shadow: inset 1px 0 0 rgba(255, 255, 255, 0.125), inset 0 1px 0 rgba(255, 255, 255, 0.2), inset -1px 0 0 rgba(255, 255, 255, 0.125), 0 1px 2px rgba(0, 0, 0, 0.05);
+    background-color: #ff2f92;
+    background: -webkit-linear-gradient( #ff61ac, #fb0077 ); 
+    background: -moz-linear-gradient( #ff61ac, #fb0077 ); 
+    border-color: #fb0077 #fb0077 #c8005f !important;
+    color: white;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.40);
+ 
+}
+
+form.directmail-subscribe-form[data-form-id="ad08c506"] input[type="submit"]:active {
+    padding-top: 5px;
+    box-shadow: inset 1px 0 0 rgba(0, 0, 0, 0.125), inset 0 1px 4px rgba(0, 0, 0, 0.5), inset -1px 0 0 rgba(0, 0, 0, 0.125), 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+form.directmail-subscribe-form[data-form-id="ad08c506"] [disabled] {
+    background: #F9F9F9 !important;
+    border-color: #CCC !important;
+    color: #CCC !important;
+    text-shadow: none !important;
+}
+
+form.directmail-subscribe-form[data-form-id="ad08c506"] select {
+    height: 34px;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 18px;
+    border-radius: 3px !important;
+    border-color: #CCC;
+    color: #555;
+}
+
+form.directmail-subscribe-form[data-form-id="ad08c506"] input[type="checkbox"] {
+    margin: auto;
+    float: left;
+}
+
+form.directmail-subscribe-form[data-form-id="ad08c506"] .directmail-missing-field {
+    background-color: #F2D0D0 !important;
+}
+
+form.directmail-subscribe-form[data-form-id="ad08c506"] .directmail-form-label {
+    float: left;
+    padding-bottom: 5px;
+    font-size: 18px;
+    color: #555555;
+}
+
+form.directmail-subscribe-form[data-form-id="ad08c506"] table.directmail-checkbox-table {
+    vertical-align: top;
+    margin-bottom: 10px;
+}
+
+form.directmail-subscribe-form[data-form-id="ad08c506"] .directmail-checkbox-label {
+    font-weight: 300;
+    max-width: 540px;
+    font-size: 18px;
+    margin-left: 10px;
+    word-wrap: break-word; 
+    color: #555555;
+}
+
+.cxname{display:none;}

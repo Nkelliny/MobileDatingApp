@@ -1,0 +1,1 @@
+[13-Jun-2012 12:59:29] PHP Fatal error:  Using $this when not in object context in /home/hangover/public_html/love/js/captcha/captcha/captcha.php on line 18
