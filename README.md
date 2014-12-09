@@ -17,3 +17,5 @@ Lots of useful stuff here for anyone wanting to get a dating or meeting app goin
 You will need to provide the database yourself, but reading the code you should be able to figure out what tables and fields to use.
 
 Enjoy Look for more code to come, I will be adding a few more projects here, Soon I will be adding the Swift Code to use this php back end code, great way to learn everything from tables views to xmpp chat!
+
+********** USE THIS CODE AT YOUR OWN RISK, THIS IS MORE FOR A HOW TO, RATHER THAN COPY / PASTE / USE ***************
